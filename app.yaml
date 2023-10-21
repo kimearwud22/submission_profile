@@ -1,0 +1,10 @@
+runtime: html
+
+handlers:
+  - url: /
+    static_files: index.html
+    upload: index.html
+
+  - url: /assets
+    static_files: /style.css
+    upload: /style.css
