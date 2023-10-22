@@ -86,12 +86,12 @@ body {
   padding: 80px 0;
 }
 
-.introduction {
+.intro {
   float: left;
   width: 50%;
 }
 
-.profile-information {
+.profile-info {
   float: right;
   padding-left: 8px;
   width: 50%;
@@ -101,7 +101,7 @@ body {
   font-weight: bold;
 }
 
-.profile-information tr td {
+.profile-info tr td {
   padding: 10px 10px 10px 0px;
   border-bottom: 1px solid #000;
 }
